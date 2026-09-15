@@ -59,6 +59,8 @@ project:
         - file: 04-challenges/01-nan-missing-values.ipynb
         - file: 04-challenges/02-relative-error-bound.ipynb
         - file: 04-challenges/03-spatial-gradient.ipynb
+        - file: 04-challenges/04-era5-pressure.ipynb
+        - file: 04-challenges/05-era5-single.ipynb
     - title: Appendices
       children:
         - title: "Appendix A: Data Sources"
