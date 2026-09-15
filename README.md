@@ -105,6 +105,8 @@ The following is an overview of all notebooks:
   - [`01-nan-missing-values.ipynb`](04-challenges/01-nan-missing-values.ipynb): NaN missing values
   - [`02-relative-error-bound.ipynb`](04-challenges/02-relative-error-bound.ipynb): Pointwise relative error bound
   - [`03-spatial-gradient.ipynb`](04-challenges/03-spatial-gradient.ipynb): Spatial gradient value along the longitude axis
+  - [`04-era5-pressure.ipynb`](04-challenges/04-era5-pressure.ipynb): ERA5 pressure-level variables
+  - [`05-era5-single.ipynb`](04-challenges/05-era5-single.ipynb): ERA5 single-level variables
 - `05-appendices/`
   - [`01-data-sources/`](05-appendices/01-data-sources/README.md): Opening datasets from different sources
     - [`01-local.ipynb`](05-appendices/01-data-sources/01-local.ipynb): Open a large local read-only dataset
