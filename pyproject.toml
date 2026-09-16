@@ -7,6 +7,7 @@ dev = [
     "compression-requirement-checks==0.1.0a1",
     "compression-requirement-safeguards==0.1.0a1",
     "compression-safeguards==1.0.0rc3",
+    "conflator==0.1.8",
     "dask==2026.8.0",
     "earthkit-data==1.2.2",
     "earthkit-geo == 1.1.2",
